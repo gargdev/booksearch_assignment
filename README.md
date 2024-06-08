@@ -1,3 +1,24 @@
+# My Awesome Bookshelf App
+
+Welcome to my bookshelf app! This project allows users to search for books and add them to their personal bookshelf.
+
+## Live Demo
+
+Check out the live demo of the app: [My Bookshelf App](https://anoopbookshelf.netlify.app/)
+
+## Features
+
+- Search for books by name
+- Add books to your personal bookshelf
+- Remove books from your bookshelf
+- Responsive design for mobile and desktop devices
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Open Library API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
